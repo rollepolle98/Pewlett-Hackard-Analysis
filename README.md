@@ -7,12 +7,25 @@ In this module Structure Query Languag aka SQL to create a database in postgres 
 
 First we had to remove duplicate rows by :
 
+![](Data/Code1.png)
+
+Next we had create a list of eligble employees for mentorship program :
+
+![](Data/Code2.png)
+
 There are :
 * 1545 mentorship eligible employees
 
 * 7 unique retiring titles on the other hand
 
 * 90395 unique titles
+
+Frome these two graphics screenshots below we can clearly see the percent retirees and eligible employees :
+
+
+% Retired           |  # Eligble
+:-------------------------:|:-------------------------:
+![](Data/Fig1.png)  |  ![](Data/Fig2.png)
 
 
 ## Results / Conclusion
