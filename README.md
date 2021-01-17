@@ -21,6 +21,6 @@ There are :
 * Once the "silver tsunami" begins to make an impact there will be over 90k roles needing to be filled once all of the retirees have left meaning that all the mentors will have roles to fill when the it does begin to make an impact
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-* Based on the number of retiring employees, there will be plenty to mentor the employees eligible for the mentorship program.
+* Once the mentors are ready there is enough retiring employees to mentor the employees eligible for the mentorship program.
 
 
