@@ -27,6 +27,8 @@ Frome these two graphics screenshots below we can clearly see the percent retire
 :-------------------------:|:-------------------------:
 ![](Data/Fig1.png)  |  ![](Data/Fig2.png)
 
+Therefore based on this analysis , we can confirm that while there will eb a significant amount retiring from the program. There will still be a significant amount of eligible mentors which allows the large amount of retirement ready employees to start training the mentors who will eventually step up and fill in the spots.
+
 
 ## Results / Conclusion
 
